@@ -39,4 +39,4 @@ def canUnlockAll(boxes):
                         Unlocked[i] = True
                     except:
                         pass
-    return False not in  Unlocked
+    return False not in Unlocked
